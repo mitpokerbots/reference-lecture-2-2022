@@ -1,1 +1,1 @@
-# reference-lec2-2022
+# reference-lecture-2-2022
